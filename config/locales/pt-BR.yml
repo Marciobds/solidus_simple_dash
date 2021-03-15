@@ -1,0 +1,38 @@
+---
+pt-BR:
+  spree:
+    admin:
+      tab:
+        overview: Visão Geral
+    simple_dash:
+      abandoned_carts: Carrinhos Abandonados
+      abandoned_carts_products: Produtos de carrinho abandonados
+      abandoned_orders: Pedidos Abandonados
+      best_selling_products: Produtos mais vendidos
+      best_selling_taxons: Categorias mais vendidos
+      biggest_spenders: Maiores gastadores
+      by_day: por dia
+      checkout_steps: Etapas de checkout
+      completed_carts: Carrinhos concluídos
+      count: Contar
+      five_biggest_spenders: 5 maiores gastadores
+      item: Item
+      items: Items
+      last_14_days: Últimos 14 Dias
+      last_5_orders: Últimos 5 Pedidos
+      last_7_days: Últimos 7 Dias
+      last_month: Último Mês
+      last_year: Último Ano
+      new_users: Novos Usuários
+      ord_qty: Pedidos. Qtde
+      ord_total: Pedidos. Total
+      orders: Pedidos
+      out_of_stock_products: Produtos fora de estoque
+      overview: Visão Geral
+      overview_welcome: Bem-vindo à visão geral da sua loja. No momento, não temos dados suficientes para exibir o Painel de visão geral. O painel será exibido automaticamente assim que o sistema tiver pedidos suficientes para permitir a geração das estatísticas.
+      range: Faixa
+      this_month: Este Mês
+      this_year: Este Ano
+      top_grossing_products: Produtos mais lucrativos
+      units: Unidades
+      value: Valor
